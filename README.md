@@ -16,7 +16,7 @@ while i <= 1000:
 print(f"Tek Sayıların Toplamı: {Tektoplam}")
 print(f"Çift Sayıların Toplamı: {Cifttoplam}")
 
-# ------------------------------------------------------------------------------------------
+# -----------------------------------------------------
 
 a = int(input("Sayı Giriniz:"))
 Tektoplam = 0
